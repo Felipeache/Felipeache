@@ -1,4 +1,4 @@
-### Hello WOrld! 👋👋👋
+### Hello World! 👋👋👋
 
 I am Felipe, a Python WebDev  👨🏻‍💻 🐍 
 
