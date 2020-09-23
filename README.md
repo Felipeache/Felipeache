@@ -7,7 +7,7 @@ I do speak Spanish, French and English.
 
 Currently based in Paris I am learning more about Java, Angular, Ionic, SQL and more.
 
-I will be pleased to help you with your Angular, Python - Django, Django REST-Framework projects, so do not hesitate!! (Yep, HTML and CSS too). 
+I will be pleased to help you with your Angular, Ionic, Python - Django, Django REST-Framework projects, so do not hesitate!! (Yep, HTML and CSS too). 
 
 Besides coding I also do like Croosfit, Outdoors biking and my Mavic Mini.  🏋️  🚵
 
