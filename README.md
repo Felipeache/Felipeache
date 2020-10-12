@@ -1,6 +1,6 @@
 
 <h1>Hello World! 👋👋👋</h1>
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding gift" width="300" height="300" align="right">
 
 I am Felipe, a <strong>Python</strong> WebDev  👨🏻‍💻 🐍 
 
