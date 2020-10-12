@@ -1,5 +1,6 @@
 
 <h1>Hello World! 👋👋👋</h1>
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 I am Felipe, a <strong>Python</strong> WebDev  👨🏻‍💻 🐍 
 
